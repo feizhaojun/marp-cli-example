@@ -211,6 +211,8 @@ npm install @xdf/design
 - 尝试参与开源项目
 - ……
 
+![bg 60% right](./assets/github.png)
+
 ---
 
 # 精进用户体验
@@ -369,20 +371,6 @@ npm install @xdf/design
 ![w:1100](./assets/xiaoketang.png)
 
 主页 index.js 减少为 → 2.2KB
-
----
-
-# 年终总结
-
-## 有负众望 
-
-## 吃力地完成任务
-
-<style scoped
-  h2 {
-    font-size: 72px;
-  }
-</style>
 
 ---
 
